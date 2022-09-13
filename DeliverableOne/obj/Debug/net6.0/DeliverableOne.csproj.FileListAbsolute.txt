@@ -1,0 +1,15 @@
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\bin\Debug\net6.0\DeliverableOne.exe
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\bin\Debug\net6.0\DeliverableOne.deps.json
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\bin\Debug\net6.0\DeliverableOne.runtimeconfig.json
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\bin\Debug\net6.0\DeliverableOne.dll
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\bin\Debug\net6.0\DeliverableOne.pdb
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.AssemblyInfoInputs.cache
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.AssemblyInfo.cs
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.dll
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\refint\DeliverableOne.dll
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.pdb
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\DeliverableOne.genruntimeconfig.cache
+C:\Users\TEMP.LAPTOP-TR85211A.000.001.002\source\repos\DeliverableOne\DeliverableOne\obj\Debug\net6.0\ref\DeliverableOne.dll
